@@ -1,4 +1,3 @@
-# ScottSummer.
 # 💫 About Me:
 Education faculty graduate and human behavior analyst / <br>Master Degree in Educational Technologies / <br>HTML, CSS, Javascript (Y) React.js is in the learning stage.
 
