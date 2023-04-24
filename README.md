@@ -1,5 +1,5 @@
 # 💫 About Me:
-Education faculty graduate and human behavior analyst :school: 🙇 <br>Master Degree in Educational Technologies :school: <br>HTML, CSS, Javascript :thumbsup: React.js is in the learning stage:books:.
+Education faculty graduate and human behavior analyst :school: 🙇 <br>Master Degree in Educational Technologies :school: <br>HTML, CSS, Javascript :thumbsup: React.js is in the learning stage:books:
 
 
 ## 🌐 Socials:
