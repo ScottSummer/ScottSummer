@@ -1,5 +1,5 @@
 # 💫 About Me:
-Education faculty graduate and human behavior analyst 🏫 🙇<br>Master Degree in Educational Technologies 🏫<br>HTML, CSS, Javascript, React.js, Typescript 👍 
+Front End Developer 🏫 🙇<br>Master Degree in Educational Technologies 🏫<br>HTML, CSS, Javascript, React.js, Typescript 👍 
 
 
 ## 🌐 Socials:
